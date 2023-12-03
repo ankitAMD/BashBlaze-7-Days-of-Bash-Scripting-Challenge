@@ -1,4 +1,9 @@
-# BashBlaze: 7 Days of Bash Scripting Challenge
+# BashBlaze: 7 Days of Bash Scripting Challenge 🔥 
+
+This is not the Original Repo. I forked and modified this REPO for Learning Purposes to Learn Scripting. 🚀 Added My Solutions with Image. 
+
+Connect with Me: [LinkedIn 👥](https://www.linkedin.com/in/ankit-gupta2/) | [Medium 📝](https://medium.com/@ankitgupta_974) | [GitHub 💻](https://github.com/ankitAMD) | [Hashnode 🏞️](https://hashnode.com/@NinjaAnkit) | [Linktree](https://linktr.ee/ninjaankit) 🔗 | [☕ Buy Me a Coffee](https://www.buymeacoffee.com/ankitgupta1) 🔔 🔔 🔔 🔔.
+
 
 > Learn X in Y days
 > Where X=bash

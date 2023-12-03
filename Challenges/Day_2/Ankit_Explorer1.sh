@@ -13,3 +13,18 @@ tail -n +2 file10.txt > file11.txt
 
 # List sizes for each file and directory
 awk '{print $9 " - " "("$5")"}' file11.txt
+
+
+while true; do
+       read -p "Enter a line of text (Press Enter without text to exit): " input
+
+       if [ -z "$input" ]; then
+         echo "Exiting the Interactive Explorer. Goodbye!"
+         break
+      fi
+         # Calculate and print the character count for the input line
+         char_count=$(echo -n  "$input" | wc -m)
+         echo "$char_count"
+         #echo "$input"
+done
+
